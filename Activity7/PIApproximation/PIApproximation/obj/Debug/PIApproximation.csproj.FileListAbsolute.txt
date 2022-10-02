@@ -1,0 +1,12 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\bin\Debug\PIApproximation.exe.config
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\bin\Debug\PIApproximation.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\bin\Debug\PIApproximation.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.frmMain.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.frmSplash.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.Properties.Resources.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.csproj.GenerateResource.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 3\Activity7\PIApproximation\PIApproximation\obj\Debug\PIApproximation.pdb
