@@ -1,7 +1,8 @@
-How I added Exception Handling
+Exception Handling
 
 FileName: frmMain.cs
 LineNumber: 49
-Description: I added a simple try catch satement over the main body of code that handles file selection, processing, and outputing of the stats. If anything fails I threw the exception so the user would see the detail.
-My code uses a lot of if statements for safe checking so ideally an exception should be very rare. I hope this was adjust but would appreciate feedback for the future so I can adjust.
+Description: I added a simple try catch satement over the main body of code that handles file selection, processing, and outputing of the stats. If anything fails I threw the exception so the user would see the detail. My code uses a lot of if statements for safe checking so ideally an exception should be very rare. 
+
+- I hope this was adequate but would appreciate feedback for the future so I can adjust.
 
