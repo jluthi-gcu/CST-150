@@ -1,4 +1,0 @@
-First Word Alphabetically: apples
-Last Word Alphabetically: zucchini
-Longest Word(s): grapefruit
-Word(s) with most vowels: grapefruit asparagus
