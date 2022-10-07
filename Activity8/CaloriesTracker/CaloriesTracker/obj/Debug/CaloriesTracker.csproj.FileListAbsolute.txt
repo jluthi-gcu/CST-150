@@ -1,0 +1,12 @@
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\bin\Debug\CaloriesTracker.exe.config
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\bin\Debug\CaloriesTracker.exe
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\bin\Debug\CaloriesTracker.pdb
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.csproj.AssemblyReference.cache
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.frmMain.resources
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.frmSplash.resources
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.Properties.Resources.resources
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.csproj.GenerateResource.cache
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.csproj.CoreCompileInputs.cache
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.exe
+C:\Users\jluthi\Desktop\CaloriesTracker\CaloriesTracker\obj\Debug\CaloriesTracker.pdb
