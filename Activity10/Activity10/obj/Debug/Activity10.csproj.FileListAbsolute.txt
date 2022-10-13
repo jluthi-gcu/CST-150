@@ -1,0 +1,8 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\bin\Debug\Activity10.exe.config
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\bin\Debug\Activity10.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\bin\Debug\Activity10.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\obj\Debug\Activity10.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\obj\Debug\Activity10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\obj\Debug\Activity10.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\obj\Debug\Activity10.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity10\Activity10\obj\Debug\Activity10.pdb
