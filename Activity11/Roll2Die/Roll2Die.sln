@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll2Die", "Roll2Die\Roll2Die.csproj", "{F2CFC37E-A87D-4DD7-ACE5-7C5CD0F69A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CFC37E-A87D-4DD7-ACE5-7C5CD0F69A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CFC37E-A87D-4DD7-ACE5-7C5CD0F69A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CFC37E-A87D-4DD7-ACE5-7C5CD0F69A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CFC37E-A87D-4DD7-ACE5-7C5CD0F69A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF0A5BA-628E-4009-B248-341492C8D6BB}
+	EndGlobalSection
+EndGlobal
