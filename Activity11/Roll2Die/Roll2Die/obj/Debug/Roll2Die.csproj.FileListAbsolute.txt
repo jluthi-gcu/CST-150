@@ -1,0 +1,12 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.frmMain.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.Properties.Resources.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.csproj.GenerateResource.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\bin\Debug\Roll2Die.exe.config
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\bin\Debug\Roll2Die.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\bin\Debug\Roll2Die.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.frmSplash.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 5\Activity11\Roll2Die\Roll2Die\obj\Debug\Roll2Die.pdb
