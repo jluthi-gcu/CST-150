@@ -1,0 +1,12 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\bin\Debug\J'sBurgers.exe.config
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\bin\Debug\J'sBurgers.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\bin\Debug\J'sBurgers.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J_sBurgers.frmMain.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J_sBurgers.frmSplash.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J_sBurgers.Properties.Resources.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.csproj.GenerateResource.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\Week 6\Activity14\J'sBurgers\J'sBurgers\obj\Debug\J'sBurgers.pdb
