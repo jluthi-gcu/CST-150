@@ -1,0 +1,38 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe.config
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.Properties.Resources.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.GenerateResource.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmMain.resources
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmSplash.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe.config
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.pdb
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.AssemblyReference.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.Properties.Resources.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.GenerateResource.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.CoreCompileInputs.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.pdb
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmMain.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmRestock.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmSplash.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe.config
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\bin\Debug\T-ShirtInventoryTracker.pdb
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.AssemblyReference.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmMain.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmRestock.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.frmSplash.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T_ShirtInventoryTracker.Properties.Resources.resources
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.GenerateResource.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.csproj.CoreCompileInputs.cache
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.exe
+C:\Users\Joel Luthi\OneDrive - Grand Canyon University\CST - 150\Week 7\Milestone 5\T-ShirtInventoryTracker\T-ShirtInventoryTracker\obj\Debug\T-ShirtInventoryTracker.pdb
